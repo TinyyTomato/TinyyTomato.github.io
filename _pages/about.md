@@ -71,7 +71,6 @@ Hangzhou, China · September 2024--Present
 @ The Big Data Institute<br>
 Hangzhou, China · September 2020--June 2024
 
-- GPA: 4.59/5.0 · IELTS: 7.0
 - Supervisors: [Prof. Dongjin Yu](https://dbsi.hdu.edu.cn/teacher/963.jhtml) and [Assoc. Prof. Jie Chen](https://faculty.hdu.edu.cn/jsjxy/cj2/main.htm)
 
 # Experience
