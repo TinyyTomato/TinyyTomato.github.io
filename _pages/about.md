@@ -78,8 +78,8 @@ Hangzhou, China · September 2020--June 2024
 
 ### University College London
 
-**Academic Visitor**, Software Systems Engineering Group, Department of Computer Science<br>
-London, United Kingdom · May 2026--Present
+<p class="experience-details"><strong>Academic Visitor</strong>, Software Systems Engineering Group, Department of Computer Science<br>
+London, United Kingdom · May 2026--Present</p>
 
 # Selected Projects
 

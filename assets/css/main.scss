@@ -131,6 +131,10 @@
   border-left: 0;
 }
 
+.experience-details {
+  margin-left: 1.5rem !important;
+}
+
 .publication-card p:last-child {
   margin-bottom: 0;
 }
@@ -152,7 +156,8 @@
   }
 
   .publication-authors,
-  .publication-description {
+  .publication-description,
+  .experience-details {
     margin-left: 0.75rem !important;
   }
 
