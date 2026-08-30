@@ -100,4 +100,4 @@ September 2021--June 2022
 - Outstanding Graduate of Hangzhou Dianzi University
 - Outstanding Postgraduate Student, Zhejiang University
 - Five-Good Postgraduate Student, Zhejiang University
-- Zhejiang Government Scholarship; four First-Class Scholarships and one Second-Class Scholarship awarded by Hangzhou Dianzi University
+- Zhejiang Government Scholarship & 4 \* First-Class Scholarships @ Hangzhou Dianzi University
