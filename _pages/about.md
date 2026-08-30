@@ -27,7 +27,7 @@ My research interests include **AI for software engineering and automated softwa
 
 <div class="publication-card">
   <div class="publication-title-row">
-    <h3>Intent-Driven Multi-Agent Framework for Cross-Library Test Migration</h3>
+    <h3>IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration</h3>
     <span class="publication-venue">FSE 2026 (CCF-A)</span>
   </div>
   <p class="publication-authors">Yi Gao, <strong>Ziyuan Zhang</strong>, Xing Hu, Xin Xia&ast;, Xiaohu Yang.</p>
