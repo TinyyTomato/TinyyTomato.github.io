@@ -90,7 +90,7 @@ London, United Kingdom · May 2026--Present
 
 Supervised by [Prof. Federica Sarro](https://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [Asst. Prof. He Ye](https://heye.me/).
 
-# Selected Project
+# Selected Projects
 
 ### Heterogeneous Information Network Community Search and Knowledge Graph System
 
@@ -99,9 +99,17 @@ September 2021--June 2022
 - Studied and reproduced community-search algorithms for heterogeneous information networks.
 - Built a graph-based retrieval system with Elasticsearch, Spring Boot 2, and community-search algorithms.
 
+### Zhejiang Provincial Securities Investment Competition (Quantitative Trading Track)
+
+**First Prize (2nd Place)** · August 2020
+
+- Led the modeling and implementation of quantitative investment strategies.
+- Developed a generative adversarial network (GAN) to forecast individual stock-price trends.
+
 # Awards
 
 - Outstanding Graduate of Zhejiang Province
 - Outstanding Graduate of Hangzhou Dianzi University
 - Zhejiang Government Scholarship
 - Four First-Class Scholarships and one Second-Class Scholarship awarded by Hangzhou Dianzi University
+- First Prize (2nd Place), Zhejiang Provincial Securities Investment Competition — Quantitative Trading Track
