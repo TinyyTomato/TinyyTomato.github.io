@@ -63,8 +63,8 @@
   padding: 1rem 1.2rem 0.85rem;
   border-left: 4px solid var(--global-base-color);
   border-radius: 0 6px 6px 0;
-  background: var(--global-footer-bg-color);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  background: transparent;
+  box-shadow: none;
 }
 
 .publication-title-row {
@@ -105,6 +105,12 @@
   border-left: 2px solid var(--global-border-color);
 }
 
+.detail-indent {
+  margin-left: 1.5rem;
+  padding-left: 0.85rem;
+  border-left: 2px solid var(--global-border-color);
+}
+
 .publication-card p:last-child {
   margin-bottom: 0;
 }
@@ -127,6 +133,11 @@
 
   .publication-description {
     margin-left: 0.75rem !important;
+    padding-left: 0.65rem;
+  }
+
+  .detail-indent {
+    margin-left: 0.75rem;
     padding-left: 0.65rem;
   }
 

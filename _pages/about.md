@@ -76,6 +76,7 @@ Hangzhou, China · September 2020--June 2024
 - GPA: 4.59/5.0 · IELTS: 7.0
 - Outstanding Graduate of Zhejiang Province and Hangzhou Dianzi University
 - Awarded four First-Class Scholarships and one Second-Class Scholarship during my undergraduate studies at Hangzhou Dianzi University
+- Supervisors: [Prof. Dongjin Yu](https://dbsi.hdu.edu.cn/teacher/963.jhtml) and [Assoc. Prof. Jie Chen](https://faculty.hdu.edu.cn/jsjxy/cj2/main.htm)
 
 # Experience
 
@@ -84,7 +85,7 @@ Hangzhou, China · September 2020--June 2024
 **Academic Visitor**, Software Systems Engineering Group, Department of Computer Science<br>
 London, United Kingdom · May 2026--Present
 
-Supervised by [Prof. Federica Sarro](https://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [Asst. Prof. He Ye](https://heye.me/).
+<p class="detail-indent">Supervised by <a href="https://www0.cs.ucl.ac.uk/staff/F.Sarro/">Prof. Federica Sarro</a> and <a href="https://heye.me/">Asst. Prof. He Ye</a>.</p>
 
 # Selected Projects
 
@@ -106,6 +107,7 @@ September 2021--June 2022
 
 - Outstanding Graduate of Zhejiang Province
 - Outstanding Graduate of Hangzhou Dianzi University
+- Outstanding Postgraduate Student, Zhejiang University
+- Five-Good Postgraduate Student, Zhejiang University
 - Zhejiang Government Scholarship
 - Four First-Class Scholarships and one Second-Class Scholarship awarded by Hangzhou Dianzi University
-- First Prize (2nd Place), Zhejiang Provincial Securities Investment Competition — Quantitative Trading Track
