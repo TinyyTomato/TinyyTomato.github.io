@@ -55,21 +55,21 @@ My research interests include **AI for software engineering and automated softwa
 
 </div>
 
-<small>\* Corresponding author.</small>
-
 # Education
 
 ### Zhejiang University
 
 **Direct-entry Ph.D. in Software Engineering**, College of Computer Science and Technology<br>
-@ The State Key Laboratory of Blockchain and Data Security · Hangzhou, China · September 2024--Present
+@ The State Key Laboratory of Blockchain and Data Security<br>
+Hangzhou, China · September 2024--Present
 
 - Supervisors: [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/)
 
 ### Hangzhou Dianzi University
 
 **B.E. in Computer Science and Technology**, The Honor College<br>
-@ The Big Data Institute · Hangzhou, China · September 2020--June 2024
+@ The Big Data Institute<br>
+Hangzhou, China · September 2020--June 2024
 
 - GPA: 4.59/5.0 · IELTS: 7.0
 - Supervisors: [Prof. Dongjin Yu](https://dbsi.hdu.edu.cn/teacher/963.jhtml) and [Assoc. Prof. Jie Chen](https://faculty.hdu.edu.cn/jsjxy/cj2/main.htm)
@@ -89,7 +89,7 @@ September 2021--June 2022
 
 - Studied and reproduced community-search algorithms for heterogeneous information networks, and built a graph-based retrieval system with Elasticsearch, Spring Boot 2, and community-search algorithms.
 
-### Zhejiang Provincial Securities Investment Competition (Quantitative Trading Track)
+### Zhejiang Provincial Securities Investment Competition: Quantitative Trading
 
 **First Prize (2nd Place)** · August 2020
 
