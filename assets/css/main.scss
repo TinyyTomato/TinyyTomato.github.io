@@ -67,15 +67,42 @@
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
-.publication-card h3 {
-  margin-top: 0;
+.publication-title-row {
   margin-bottom: 0.55rem;
+  line-height: 1.4;
+}
+
+.publication-title-row h3 {
+  display: inline;
+  margin: 0;
   font-size: 1.05em;
+}
+
+.publication-venue {
+  display: inline-block;
+  margin-left: 0.7rem;
+  padding: 0.08rem 0.45rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-base-color);
+  font-size: 0.78em;
+  font-weight: 700;
+  white-space: nowrap;
+  vertical-align: 0.08em;
 }
 
 .publication-card p {
   margin: 0.45rem 0;
-  padding-left: 1.25rem;
+}
+
+.publication-authors {
+  padding-left: 0;
+}
+
+.publication-description {
+  margin-left: 1.5rem !important;
+  padding-left: 0.85rem;
+  border-left: 2px solid var(--global-border-color);
 }
 
 .publication-card p:last-child {
@@ -93,8 +120,14 @@
     padding: 0.85rem 0.9rem 0.75rem;
   }
 
-  .publication-card p {
-    padding-left: 0.75rem;
+  .publication-venue {
+    margin-left: 0.4rem;
+    font-size: 0.73em;
+  }
+
+  .publication-description {
+    margin-left: 0.75rem !important;
+    padding-left: 0.65rem;
   }
 
   .page__content > h1 {
