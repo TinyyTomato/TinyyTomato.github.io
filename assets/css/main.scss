@@ -105,12 +105,6 @@
   border-left: 2px solid var(--global-border-color);
 }
 
-.page__content .detail-indent {
-  margin-left: 1.5rem !important;
-  padding-left: 0.85rem;
-  border-left: 2px solid var(--global-border-color);
-}
-
 .publication-card p:last-child {
   margin-bottom: 0;
 }
@@ -132,11 +126,6 @@
   }
 
   .publication-description {
-    margin-left: 0.75rem !important;
-    padding-left: 0.65rem;
-  }
-
-  .page__content .detail-indent {
     margin-left: 0.75rem !important;
     padding-left: 0.65rem;
   }

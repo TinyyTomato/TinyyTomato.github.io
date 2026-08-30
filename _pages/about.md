@@ -62,20 +62,16 @@ My research interests include **AI for software engineering and automated softwa
 ### Zhejiang University
 
 **Direct-entry Ph.D. in Software Engineering**, College of Computer Science and Technology<br>
-Hangzhou, China · September 2024--Present
+@ The State Key Laboratory of Blockchain and Data Security · Hangzhou, China · September 2024--Present
 
-- State Key Laboratory of Blockchain and Data Security
-- Outstanding Postgraduate Student and Five-Good Postgraduate Student
 - Supervisors: [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/)
 
 ### Hangzhou Dianzi University
 
 **B.E. in Computer Science and Technology**, The Honor College<br>
-Hangzhou, China · September 2020--June 2024
+@ The Big Data Institute · Hangzhou, China · September 2020--June 2024
 
 - GPA: 4.59/5.0 · IELTS: 7.0
-- Outstanding Graduate of Zhejiang Province and Hangzhou Dianzi University
-- Awarded four First-Class Scholarships and one Second-Class Scholarship during my undergraduate studies at Hangzhou Dianzi University
 - Supervisors: [Prof. Dongjin Yu](https://dbsi.hdu.edu.cn/teacher/963.jhtml) and [Assoc. Prof. Jie Chen](https://faculty.hdu.edu.cn/jsjxy/cj2/main.htm)
 
 # Experience
@@ -85,23 +81,19 @@ Hangzhou, China · September 2020--June 2024
 **Academic Visitor**, Software Systems Engineering Group, Department of Computer Science<br>
 London, United Kingdom · May 2026--Present
 
-<p class="detail-indent">Supervised by <a href="https://www0.cs.ucl.ac.uk/staff/F.Sarro/">Prof. Federica Sarro</a> and <a href="https://heye.me/">Asst. Prof. He Ye</a>.</p>
-
 # Selected Projects
 
 ### Heterogeneous Information Network Community Search and Knowledge Graph System
 
 September 2021--June 2022
 
-- Studied and reproduced community-search algorithms for heterogeneous information networks.
-- Built a graph-based retrieval system with Elasticsearch, Spring Boot 2, and community-search algorithms.
+- Studied and reproduced community-search algorithms for heterogeneous information networks, and built a graph-based retrieval system with Elasticsearch, Spring Boot 2, and community-search algorithms.
 
 ### Zhejiang Provincial Securities Investment Competition (Quantitative Trading Track)
 
 **First Prize (2nd Place)** · August 2020
 
-- Led the modeling and implementation of quantitative investment strategies.
-- Developed a generative adversarial network (GAN) to forecast individual stock-price trends.
+- Led the modeling and implementation of quantitative investment strategies, and developed a generative adversarial network (GAN) to forecast individual stock-price trends.
 
 # Awards
 
@@ -109,5 +101,4 @@ September 2021--June 2022
 - Outstanding Graduate of Hangzhou Dianzi University
 - Outstanding Postgraduate Student, Zhejiang University
 - Five-Good Postgraduate Student, Zhejiang University
-- Zhejiang Government Scholarship
-- Four First-Class Scholarships and one Second-Class Scholarship awarded by Hangzhou Dianzi University
+- Zhejiang Government Scholarship; four First-Class Scholarships and one Second-Class Scholarship awarded by Hangzhou Dianzi University
