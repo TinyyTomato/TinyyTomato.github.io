@@ -96,11 +96,21 @@
 }
 
 .publication-title-row h3 {
-  display: block;
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  column-gap: 0.45rem;
   flex: 1 1 auto;
   min-width: 0;
   margin: 0;
   font-size: 1.05em;
+}
+
+.publication-index {
+  color: var(--global-base-color);
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
 }
 
 .publication-venue {
@@ -122,11 +132,11 @@
 }
 
 .publication-authors {
-  margin-left: 1.5rem !important;
+  margin-left: 2.45rem !important;
 }
 
 .publication-description {
-  margin-left: 1.5rem !important;
+  margin-left: 2.45rem !important;
   padding-left: 0;
   border-left: 0;
 }
@@ -159,6 +169,11 @@
   .publication-description,
   .experience-details {
     margin-left: 0.75rem !important;
+  }
+
+  .publication-authors,
+  .publication-description {
+    margin-left: 2.15rem !important;
   }
 
   .page__content > h1 {

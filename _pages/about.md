@@ -17,40 +17,40 @@ My research interests include **AI for software engineering and automated softwa
 
 <div class="publication-card">
   <div class="publication-title-row">
-    <h3>Automated Knowledge-Aware Test Reuse</h3>
+    <h3><span class="publication-index">C2</span><span>Automated Knowledge-Aware Test Reuse</span></h3>
     <span class="publication-venue">FSE 2026 (CCF-A)</span>
   </div>
-  <p class="publication-authors"><strong>Ziyuan Zhang</strong>, Yi Gao, Xing Hu&ast;, Xin Xia, Shanping Li.</p>
+  <p class="publication-authors"><strong>Authors:</strong> <strong>Ziyuan Zhang</strong>, Yi Gao, Xing Hu&ast;, Xin Xia, Shanping Li.</p>
   <p class="publication-description">Introduces KATRER, a knowledge-aware test reuse framework that represents repositories as heterogeneous knowledge graphs and integrates semantic and structural signals for cross-library migration.</p>
 
 </div>
 
 <div class="publication-card">
   <div class="publication-title-row">
-    <h3>IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration</h3>
+    <h3><span class="publication-index">C1</span><span>IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration</span></h3>
     <span class="publication-venue">FSE 2026 (CCF-A)</span>
   </div>
-  <p class="publication-authors">Yi Gao, <strong>Ziyuan Zhang</strong>, Xing Hu, Xin Xia&ast;, Xiaohu Yang.</p>
+  <p class="publication-authors"><strong>Authors:</strong> Yi Gao, <strong>Ziyuan Zhang</strong>, Xing Hu, Xin Xia&ast;, Xiaohu Yang.</p>
   <p class="publication-description">Presents IntentTester, an LLM-based multi-agent framework that abstracts source tests into a language-agnostic representation and reasons over semantically aligned repository graphs.</p>
 
 </div>
 
 <div class="publication-card">
   <div class="publication-title-row">
-    <h3>What Makes a Real Change in Software Performance? An Empirical Study on the Factors that Affect the Triagement of Performance Change Points</h3>
+    <h3><span class="publication-index">J2</span><span>What Makes a Real Change in Software Performance? An Empirical Study on the Factors that Affect the Triagement of Performance Change Points</span></h3>
     <span class="publication-venue">SCP 2024 (CCF-B)</span>
   </div>
-  <p class="publication-authors">Jie Chen&ast;, <strong>Ziyuan Zhang</strong>, Dongjin Yu, Haiyang Hu.</p>
+  <p class="publication-authors"><strong>Authors:</strong> Jie Chen&ast;, <strong>Ziyuan Zhang</strong>, Dongjin Yu, Haiyang Hu.</p>
   <p class="publication-description">Studies automated triage of performance change points in continuous software testing and analyzes configuration, time-series, version, and contextual factors.</p>
 
 </div>
 
 <div class="publication-card">
   <div class="publication-title-row">
-    <h3>An Empirical Study on the GitHub Sponsor Mechanism</h3>
+    <h3><span class="publication-index">J1</span><span>An Empirical Study on the GitHub Sponsor Mechanism</span></h3>
     <span class="publication-venue">IJSEKE 2023 (CCF-C)</span>
   </div>
-  <p class="publication-authors"><strong>Ziyuan Zhang</strong>, Yiqian Yang, Haolan He, Jie Chen&ast;.</p>
+  <p class="publication-authors"><strong>Authors:</strong> <strong>Ziyuan Zhang</strong>, Yiqian Yang, Haolan He, Jie Chen&ast;.</p>
   <p class="publication-description">Conducts a large-scale empirical study of GitHub Sponsors, combining sponsorship prediction with explainability analysis for open-source maintainers.</p>
 
 </div>
