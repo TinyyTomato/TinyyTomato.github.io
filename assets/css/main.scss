@@ -75,6 +75,7 @@
 
 .publication-card p {
   margin: 0.45rem 0;
+  padding-left: 1.25rem;
 }
 
 .publication-card p:last-child {
@@ -90,6 +91,10 @@
   .publication-card {
     margin-left: 0;
     padding: 0.85rem 0.9rem 0.75rem;
+  }
+
+  .publication-card p {
+    padding-left: 0.75rem;
   }
 
   .page__content > h1 {
