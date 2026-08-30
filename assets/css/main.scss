@@ -105,8 +105,8 @@
   border-left: 2px solid var(--global-border-color);
 }
 
-.detail-indent {
-  margin-left: 1.5rem;
+.page__content .detail-indent {
+  margin-left: 1.5rem !important;
   padding-left: 0.85rem;
   border-left: 2px solid var(--global-border-color);
 }
@@ -136,8 +136,8 @@
     padding-left: 0.65rem;
   }
 
-  .detail-indent {
-    margin-left: 0.75rem;
+  .page__content .detail-indent {
+    margin-left: 0.75rem !important;
     padding-left: 0.65rem;
   }
 
