@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a third-year direct-entry Ph.D. student in Software Engineering at the College of Computer Science and Technology, Zhejiang University. I am advised by [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/). I am currently an Academic Visitor with the Software Systems Engineering Group at University College London, supervised by [Prof. Federica Sarro](https://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [Asst. Prof. He Ye](https://heye.me/).
+I am a third-year direct-entry Ph.D. student in Software Engineering at the College of Computer Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/). I am currently an Academic Visitor with the Software Systems Engineering Group at University College London, supervised by [Prof. Federica Sarro](https://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [Asst. Prof. He Ye](https://heye.me/).
 
 My research interests include **AI for software engineering and automated software testing**. I am particularly interested in building practical, trustworthy techniques that reduce the cost of testing and maintenance for real-world software systems.
 
