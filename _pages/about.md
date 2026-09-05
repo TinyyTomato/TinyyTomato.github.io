@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third-year direct-entry Ph.D. student in Software Engineering at the College of Computer Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/). I am currently an Academic Visitor with the Software Systems Engineering Group at University College London, supervised by [Prof. Federica Sarro](https://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [Asst. Prof. He Ye](https://heye.me/).
 
-My research interests include **AI for Security, AI for Software Engineering(AI4SE), and Automated Software Migration & Testing**. I am particularly interested in building practical, trustworthy techniques that reduce the cost of testing and maintenance for real-world software systems.
+My research interests include **AI for Software Engineering(AI4SE), Automated Software Migration & Testing and AI for Security**. I am particularly interested in building practical, trustworthy techniques that reduce the cost of maintenance and testing for real-world software systems. I am also deeply interested in AI for security in the emerging era of agentic systems, with a particular focus on securing command-line interactions with system environments. I warmly welcome opportunities for discussion and collaboration.
 
 # Publications
 
