@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a third-year direct-entry Ph.D. student in Software Engineering at the College of Computer Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/). I am currently an Academic Visitor with the Software Systems Engineering Group at University College London, supervised by [Prof. Federica Sarro](https://profiles.ucl.ac.uk/38657-federica-sarro) and [Asst. Prof. He Ye](https://heye.me/).
+I am a third-year direct-entry Ph.D. student in Software Engineering at the College of Computer Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of [Qiushi Distinguished Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Assoc. Prof. Xing Hu](https://xing-hu.github.io/). I am currently an Academic Visitor with the Software Systems Engineering Group at University College London, supervised by [Prof. Federica Sarro](https://profiles.ucl.ac.uk/38657-federica-sarro) and [Asst. Prof. He Ye](https://heye.me/).
 
 My research interests include **AI for Software Engineering(AI4SE), Automated Software Migration & Testing, and AI for Security**. I am particularly interested in constructing practical and trustworthy techniques that reduce the cost of maintenance and testing for real-world software systems. I am also deeply interested in AI for security.
 
@@ -63,7 +63,7 @@ My research interests include **AI for Software Engineering(AI4SE), Automated So
 @ The State Key Laboratory of Blockchain and Data Security<br>
 Hangzhou, China · September 2024--Present
 
-- Supervisors: [Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Prof. Xing Hu](https://xing-hu.github.io/)
+- Supervisors: [Qiushi Distinguished Prof. Xin Xia](https://xin-xia.github.io/), Prof. Shanping Li, and [Assoc. Prof. Xing Hu](https://xing-hu.github.io/)
 
 ### Hangzhou Dianzi University
 
